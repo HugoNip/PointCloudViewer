@@ -1,4 +1,4 @@
-# Stereo Vision Display
+# Point Clould Viewer
 ## Introduction
 This project shows how to use RGBD images and stereo images to generate pointcloud in the SLAM.  
 Besides, this project also contains files showing several simple operations of OpenCV package and image undistorting.
