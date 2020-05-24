@@ -82,6 +82,7 @@ make
 ```
 ./stereoVision
 ```
-![]()
+![Screenshot%20from%202020-05-24%2018-48-11.png](https://github.com/HugoNip/PointCloudViewer/blob/master/results/Screenshot%20from%202020-05-24%2018-48-11.png)
+
 ## Reference
 [Source](https://github.com/HugoNip/slambook2/tree/master/ch5)
