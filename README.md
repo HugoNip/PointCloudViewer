@@ -71,4 +71,4 @@ make
 ./undistortImage
 ```
 ## Reference
-[Source](https://github.com/HugoNip/slambook2/tree/master/ch4)
+[Source](https://github.com/HugoNip/slambook2/tree/master/ch5)
