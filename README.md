@@ -64,11 +64,24 @@ make
 ```
 
 ## Run
+### Case 1
 ```
 ./imageBasic
-./jointMap
-./stereoVision
+```
+### Case 2
+```
 ./undistortImage
 ```
+### Case 3
+```
+./jointMap
+```
+![Screenshot%20from%202020-05-24%2018-47-36.png](https://github.com/HugoNip/PointCloudViewer/blob/master/results/Screenshot%20from%202020-05-24%2018-47-36.png)
+
+### Case 4
+```
+./stereoVision
+```
+![]()
 ## Reference
 [Source](https://github.com/HugoNip/slambook2/tree/master/ch5)
