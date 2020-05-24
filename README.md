@@ -1,6 +1,6 @@
 # Stereo Vision Display
 ## Introduction
-The RGBD vision and stereo vision display in the SLAM.  
+This project shows how to use RGBD images and stereo images to generate pointcloud in the SLAM.  
 Besides, this project also contains files showing several simple operations of OpenCV package and image undistorting.
 
 ## Requirements
