@@ -6,7 +6,7 @@ Besides, this project also contains files showing several simple operations of O
 ## Requirements
 ### OpenCV
 #### Required Packages
-OpenCV
+OpenCV  
 OpenCV Contrib
 
 ### Eigen Package (Version >= 3.0.0)
